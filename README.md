@@ -4,6 +4,7 @@
 
 ## 目录
 * [毛选一](./毛选一.md)
+* [毛选二](./毛选二.md)
 
 ## License
 This repo is released under the [WTFPL](http://www.wtfpl.net/) – Do What the Fuck You Want to Public License.
